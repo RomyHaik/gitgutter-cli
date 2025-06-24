@@ -1,6 +1,7 @@
 # GitGutter CLI
 
 A powerful command-line tool for searching code across GitHub repositories using the GitHub API. Results are automatically ordered by date (descending) for the most relevant and up-to-date code snippets.
+![GitGutter CLI screenshot](gitgutter-cli-screenshot.png)
 
 ## Features
 
